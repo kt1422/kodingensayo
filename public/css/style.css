@@ -42,11 +42,11 @@ nav.scrolled {
 .parallax1 {
   background-image: url("/img/lights.jpg");
   height: 100vh;
+
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  margin-top: 90px;
 }
 
 /* contactUs */
